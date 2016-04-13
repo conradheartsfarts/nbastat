@@ -1,0 +1,48 @@
+ENG EK 127 Spring 2016
+Final Project and Homework 2
+
+Project Instructions:
+
+	You may work in groups of 2 or 3 (no more, no fewer!. This project is due on Wednesday April 27th by 8:00pm.  You will be demonstrating it in class before that, either Monday April 25th or Wednesday April 27th.  Please note that there are over 170 students in the class. Not everyone can be in PHO 117 at the last minute! You will be graded on the correctness of your solution and on your programming style.  This includes vectorizing your code, writing informative comments, etc. Follow the Programming Style Guidelines at the end of each chapter!
+	You will submit your solution both electronically and in person. Hand in a document consisting of a typed cover page, your project description, your project solution, sample data file(s) and the output. The cover page must include: your name(s), the name of the submitted folder (containing all files listed in the deliverables section), and a signed statement from each group member stating the program is the original work of your group. 
+   Electronically, you will submit the the College server’s V drive.  Make sure that you submit the folder containing every file needed to run the program electronically in the “Project Hand In” folder, one per group, with your name(s) as part of the folder name.
+
+Project:
+
+You are to, as a team, create a project and the solution.  That’s right, you write the project description AND the solution.  The project must be a menu-driven, modular program that includes at the very least the following:
+•	a GUI 
+•	a data base: a vector of structures
+•	reading from at least one data file (into your data structure)
+•	at least one anonymous function
+•	at least one function that has a variable number of input and/or output arguments
+•	plotting
+•	sorting your data base
+•	indexing on at least one field in your data base
+•	some statistical analysis on your data base
+•	loading a relevant image and doing some image processing
+
+You must have a cover page that indicates clearly where in your code you have each of these items.
+
+Be creative!  Make it interesting and useful!  You will be in competition with the other project groups.  
+
+You can create your own data file(s) if you want, or you can look online for existing data files.  Many government websites have data files that can be downloaded – census data, for example, weather data, etc.  Games are not permitted.
+
+Homework 2
+
+Create your team of two or three students.  From the same lecture section is best, since you will be demonstrating your final project during the lecture sections.
+
+Decide basically what your project will do.  Either find data file(s) that you will use, or create them.
+
+Write a draft of the project description.
+
+Deliverables:
+
+Hard copy including:
+•	A list of the students on the team,
+•	The project description
+•	The data files
+
+
+Due in the beginning of class Wednesday April 20th.
+
+
